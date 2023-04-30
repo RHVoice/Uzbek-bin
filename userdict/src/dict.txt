@@ -1,5 +1,5 @@
-; We use ~ to mark i as front and j as a fricative.
-; ^ is used to mark the back i, to block the default rules of guessing the front i.
+; We use ~ to mark i, k and g as front and j as a fricative.
+; ^ is used to mark the back i, k and g, to block the default rules of guessing the front variants.
 (цивилизация=ци~ви~ли~заци~я)*
 (militsioner=mi~li~tsi~oner)*
 taqs(i=i^)r*
