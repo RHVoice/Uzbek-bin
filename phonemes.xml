@@ -18,14 +18,14 @@
   <phoneme name="p" vc="-" cons="+" son="-" ctype="s" cont="-" cplace="b" lab="+" cvox="-"/>
   <phoneme name="v" vc="-" cons="+" son="-" ctype="f" delrel="+" cont="+" cplace="l" lab="+" cvox="+"/>
   <phoneme name="gh" vc="-" cons="+" son="-" ctype="f" delrel="+" cont="+" cplace="u" dor="+" cvox="+"/>
-  <phoneme name="g" vc="-" cons="+" son="-" ctype="s" cont="-" cplace="v" dor="+" cvox="+" cfront="-"/>
-  <phoneme name="gj" vc="-" cons="+" son="-" ctype="s" cont="-" cplace="v" dor="+" cvox="+" cfront="+"/>
+  <phoneme name="g" vc="-" cons="+" son="-" ctype="s" cont="-" cplace="v" dor="+" cvox="+"/>
+  <phoneme name="gj" vc="-" cons="+" son="-" ctype="s" cont="-" cplace="v" dor="+" cvox="+"/>
   <phoneme name="d" vc="-" cons="+" son="-" cont="-" ctype="s" cplace="a" cor="+" cvox="+"/>
   <phoneme name="j" son="-" vc="-" cons="+" cont="-" ctype="a" delrel="+" csib="+" cor="+" cplace="p" cvox="+"/>
   <phoneme name="zh" son="-" vc="-" cons="+" cont="+" ctype="f" delrel="+" csib="+" cor="+" cplace="p" cvox="+"/>
   <phoneme name="z" son="-" vc="-" cons="+" cont="+" ctype="f" delrel="+" csib="+" cor="+" cplace="a" cvox="+"/>
-  <phoneme name="k" vc="-" cons="+" son="-" ctype="s" cont="-" cplace="v" dor="+" cvox="-" cfront="-"/>
-  <phoneme name="kj" vc="-" cons="+" son="-" ctype="s" cont="-" cplace="v" dor="+" cvox="-" cfront="+"/>
+  <phoneme name="k" vc="-" cons="+" son="-" ctype="s" cont="-" cplace="v" dor="+" cvox="-"/>
+  <phoneme name="kj" vc="-" cons="+" son="-" ctype="s" cont="-" cplace="v" dor="+" cvox="-"/>
   <phoneme name="l" vc="-" cons="+" son="+" approx="+" cont="+" ctype="l" cplace="a" cor="+" cvox="+"/>
   <phoneme name="m" vc="-" cons="+" son="+" cont="-" ctype="n" cplace="b" lab="+" cvox="+"/>
   <phoneme name="n" vc="-" cons="+" son="+" cont="-" ctype="n" cplace="a" cor="+" cvox="+"/>
